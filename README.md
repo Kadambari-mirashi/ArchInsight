@@ -147,9 +147,4 @@ The system prompts in `prompts.py` are designed as strong first drafts. Look for
 
 ---
 
-## References
 
-- [`02_using_ollama.py`](../02_using_ollama.py) — Basic Ollama system prompts
-- [`03_agents.py`](../03_agents.py) — Multi-agent workflow example
-- [`04_rules.py`](../04_rules.py) — Agent rules with YAML
-- [`functions.py`](../functions.py) — Helper functions for agent orchestration
